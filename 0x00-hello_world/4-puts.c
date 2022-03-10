@@ -1,14 +1,12 @@
 /*
  * File: 4-puts.c
- * Auth: Mfon Etuk  
+ * Auth: Mfon Etuk
  */
 
 #include <stdio.h>
 
 /**
- * main - Prints "Programming is like building a multilingual 
- * 		puzzle."
- *
+ * main - Prints "Programming is like building a multilingual puzzle."
  * Return: Always 0.
  */
 int main(void)
