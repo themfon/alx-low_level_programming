@@ -6,11 +6,11 @@
 #include <stdio.h>
 
 /**
- * main - Prints  all possible combinations od sindle-digit numbers
+ * main - Prints  all possible combinations of sindle-digit numbers
  *
  * Return: Always 0.
  */
-int main(void)
+int main (void)
 {
 	int num;
 
