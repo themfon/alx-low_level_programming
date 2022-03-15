@@ -1,19 +1,23 @@
-/*
- * File: 0-putchar.c
- * Auth: Mfon Etuk
- *
- */
-
 #include "main.h"
 
 /**
- * main - Prints "_putchar.c" followed by a new line.
+ * main - prints _putchar
  *
- * Return: Always 0.
+ * Description: prints _putchar
+ *
+ * Return: 0 (Success)
  */
-void string main()
+
+int main(void)
 {
-	write("_putchar\n");
+	char text[9] = "_putchar";
+	int i = 0;
+
+	for (i = 0; i < 8; i++)
+	{
+		_putchar(text[i]);
+	}
+	_putchar('\n');
 
 	return (0);
 }
