@@ -4,14 +4,14 @@
  *
  */
 
-#include "main.h"
+#include <main.h>
 
 /**
  * main - Prints "_putchar.c" followed by a new line.
  *
  * Return: Always 0.
  */
-int main(void)
+void int main()
 {
 	write("_putchar\n");
 
