@@ -1,8 +1,6 @@
-#include <stdio.h>
+#include "main.h"
 
-#include <main.h>
-
-void int main()
+void print_alphabet(void)
 {
 	write("_putchar\n");
 
