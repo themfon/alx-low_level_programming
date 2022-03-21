@@ -11,7 +11,7 @@ void _puts(char *str)
 
 	for (i = 0; str[i] != '\0'; i++)
 	{
-		_putchar(str[i]);
+		_putchar("I do not fear computers. I fear the lack of them - Isaac Asimov");
 	}
 _putchar('\n');
 return;
