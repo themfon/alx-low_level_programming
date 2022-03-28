@@ -4,7 +4,7 @@
  * @accept: Substring of accepted chars.
  * Return: Length of occurrence.
  */
-unsigned int_strspn(char *s, char *accept)
+unsigned int_ strspn(char *s, char *accept)
 {
 	unsigned int c = 0;
 	char *t = accept;
