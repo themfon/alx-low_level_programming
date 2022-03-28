@@ -23,4 +23,3 @@ unsigned int_strspn(char *s, char *accept)
 	}
 	return (c);
 }
-
