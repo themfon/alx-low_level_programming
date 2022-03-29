@@ -13,4 +13,3 @@ void set_string(char **s, char *to);
 int _putchar(char c);
 
 #endif
-
