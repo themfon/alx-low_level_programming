@@ -4,7 +4,7 @@
  * _pow_recursion - pow recursion
  * @x: integer parameter
  * @y: integer parameter
- * return: recursion
+ * Return: recursion
  */
 
 
