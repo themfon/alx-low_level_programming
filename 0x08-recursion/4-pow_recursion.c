@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _pow_recursion - power recursion
+ * _pow_recursion - pow recursion
  * @x: integer parameter
  * @y: integer parameter
  * return: recursion
