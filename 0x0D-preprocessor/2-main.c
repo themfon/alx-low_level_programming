@@ -1,20 +1,14 @@
-#ifndef foo_H
-#define foo_H
 #include <stdio.h>
-/**
-* main - check the code
-*
-* Return: Always 0.
-*/
 
+/**
+ * main - Prints the name of the file of the program
+ *	it was compiled from, followed by a new line.
+ *
+ * Return: Always 0.
+ */
 int main(void)
 {
-char name_storage[] = "2-main.c";
+	printf("%s\n", __FILE__);
 
-printf("%s\n", __FILE__);
-
-return (0);
+	return (0);
 }
-
-
-#endif
